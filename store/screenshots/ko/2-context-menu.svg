@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect width="1280" height="800" fill="#0b1020"/>
+  <rect width="1280" height="800" fill="url(#g)"/>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#141a33"/><stop offset="1" stop-color="#0b1020"/>
+  </linearGradient></defs>
+  
+  <text x="640" y="86" text-anchor="middle" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="40" font-weight="800" fill="#ffffff">그룹으로 정리한 나만의 우클릭 메뉴</text>
+  <rect x="80" y="150" width="1120" height="570" rx="14" fill="#171a23" stroke="#2a3040"/>
+  <rect x="80" y="150" width="1120" height="44" rx="14" fill="#1f2430"/>
+  <rect x="80" y="178" width="1120" height="16" fill="#1f2430"/>
+  <circle cx="108" cy="172" r="6" fill="#ef5f5f"/><circle cx="128" cy="172" r="6" fill="#f6c150"/><circle cx="148" cy="172" r="6" fill="#56c264"/>
+  <rect x="180" y="160" width="920" height="24" rx="12" fill="#0f1320"/>
+  <text x="200" y="177" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#9aa3b2">any-website.com</text>
+  
+  <text x="120" y="240" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="16" fill="#cfd3da">선택 후 마우스 오른쪽 클릭 →</text>
+  
+  <g transform="translate(360,260)">
+    <rect width="260" height="232" rx="8" fill="#ffffff"/>
+    
+    <rect x="8" y="8" width="244" height="30" rx="6" fill="#e8f0fe"/>
+    <text x="18" y="28" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="14" fill="#202124">🔍 검색</text>
+    <text x="236" y="28" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#5f6368">▸</text>
+    
+    <rect x="8" y="42" width="244" height="30" rx="6" fill="transparent"/>
+    <text x="18" y="62" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="14" fill="#202124">🗺️ 지도</text>
+    <text x="236" y="62" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#5f6368">▸</text>
+    
+    <rect x="8" y="76" width="244" height="30" rx="6" fill="transparent"/>
+    <text x="18" y="96" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="14" fill="#202124">🖼️ 이미지</text>
+    <text x="236" y="96" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#5f6368">▸</text>
+    
+    <rect x="8" y="110" width="244" height="30" rx="6" fill="transparent"/>
+    <text x="18" y="130" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="14" fill="#202124">🤖 AI</text>
+    <text x="236" y="130" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#5f6368">▸</text>
+    <rect x="12" y="146" width="236" height="1" fill="#e0e0e0"/>
+    
+    <rect x="8" y="152" width="244" height="30" rx="6" fill="transparent"/>
+    <text x="18" y="172" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="14" fill="#202124">📤 공유</text>
+    <text x="236" y="172" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#5f6368">▸</text>
+    
+    <rect x="8" y="186" width="244" height="30" rx="6" fill="transparent"/>
+    <text x="18" y="206" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="14" fill="#202124">번역</text>
+    
+  </g>
+  <text x="1180" y="772" text-anchor="end" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="18" font-weight="800" fill="#9aa3b2">Pickit</text>
+</svg>

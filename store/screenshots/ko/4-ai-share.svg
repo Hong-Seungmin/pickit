@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect width="1280" height="800" fill="#0b1020"/>
+  <rect width="1280" height="800" fill="url(#g)"/>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#141a33"/><stop offset="1" stop-color="#0b1020"/>
+  </linearGradient></defs>
+  
+  <text x="640" y="86" text-anchor="middle" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="40" font-weight="800" fill="#ffffff">내 프롬프트로 AI 질의, 그리고 공유까지</text>
+  <rect x="80" y="150" width="1120" height="570" rx="14" fill="#171a23" stroke="#2a3040"/>
+  <rect x="80" y="150" width="1120" height="44" rx="14" fill="#1f2430"/>
+  <rect x="80" y="178" width="1120" height="16" fill="#1f2430"/>
+  <circle cx="108" cy="172" r="6" fill="#ef5f5f"/><circle cx="128" cy="172" r="6" fill="#f6c150"/><circle cx="148" cy="172" r="6" fill="#56c264"/>
+  <rect x="180" y="160" width="920" height="24" rx="12" fill="#0f1320"/>
+  <text x="200" y="177" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#9aa3b2">Pickit — 옵션</text>
+  
+  <g transform="translate(120,250)">
+    <rect width="520" height="250" rx="12" fill="#171a23" stroke="#2a3040"/>
+    <text x="20" y="40" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="18" font-weight="700" fill="#e6e8ee">🤖 AI에 질문</text>
+    <text x="20" y="76" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#9aa3b2">내가 설정한 프롬프트</text>
+    <rect x="20" y="86" width="480" height="34" rx="7" fill="#1f2430" stroke="#2a3040"/>
+    <text x="30" y="108" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#e6e8ee">다음 내용을 한국어로 요약해줘:</text>
+    <text x="20" y="150" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#9aa3b2">+ {selection}</text>
+    <rect x="20" y="160" width="480" height="34" rx="7" fill="#0f1320"/>
+    <text x="30" y="182" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#6366f1">https://chatgpt.com/?q=…</text>
+    <text x="20" y="224" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="12" fill="#9aa3b2">ChatGPT · Claude · Perplexity · Gemini</text>
+  </g>
+  <g transform="translate(700,250)">
+    <rect width="380" height="250" rx="12" fill="#171a23" stroke="#2a3040"/>
+    <text x="20" y="40" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="18" font-weight="700" fill="#e6e8ee">공유</text>
+    <text x="20" y="74" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="12" fill="#9aa3b2">제목</text>
+    <rect x="20" y="82" width="340" height="30" rx="7" fill="#1f2430" stroke="#2a3040"/>
+    <text x="30" y="102" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#e6e8ee">인공지능 반도체 시장 전망</text>
+    <text x="20" y="134" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="12" fill="#9aa3b2">URL</text>
+    <rect x="20" y="142" width="340" height="30" rx="7" fill="#1f2430" stroke="#2a3040"/>
+    <text x="30" y="162" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#e6e8ee">https://example.com/article</text>
+    <rect x="20" y="190" width="180" height="38" rx="8" fill="#4f46e5"/>
+    <text x="110" y="214" text-anchor="middle" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#fff">시스템 공유 열기</text>
+    <rect x="208" y="190" width="152" height="38" rx="8" fill="#1f2430" stroke="#2a3040"/>
+    <text x="284" y="214" text-anchor="middle" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="13" fill="#e6e8ee">URL 복사</text>
+  </g>
+  <text x="1180" y="772" text-anchor="end" font-family="'Malgun Gothic','Segoe UI',system-ui,sans-serif" font-size="18" font-weight="800" fill="#9aa3b2">Pickit</text>
+</svg>
