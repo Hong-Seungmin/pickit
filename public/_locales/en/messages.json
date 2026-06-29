@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Pickit",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Add your own right-click menu items that search, share, translate, or open with URL templates.",
+    "description": "Extension description"
+  }
+}

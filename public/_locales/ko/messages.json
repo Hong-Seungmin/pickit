@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Pickit",
+    "description": "확장 프로그램 이름"
+  },
+  "extDescription": {
+    "message": "검색·공유·번역·이동을 URL 템플릿으로 실행하는 우클릭 메뉴 항목을 직접 등록하세요.",
+    "description": "확장 프로그램 설명"
+  }
+}
