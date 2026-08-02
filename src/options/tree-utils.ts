@@ -91,10 +91,6 @@ export interface Projection {
   parentId: string | null;
 }
 
-function findById(items: FlatItem[], id: string): FlatItem | undefined {
-  return items.find((it) => it.node.id === id);
-}
-
 /** arrayMove without a dependency. */
 export function arrayMove<T>(arr: T[], from: number, to: number): T[] {
   const copy = arr.slice();
@@ -149,5 +145,3 @@ export function getProjection(
 
   return { depth, parentId };
 }
-
-export { findById };

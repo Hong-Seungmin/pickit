@@ -7,7 +7,8 @@ export default defineConfig({
   plugins: [react(), crx({ manifest })],
   build: {
     target: "esnext",
-    sourcemap: true,
+    // No sourcemaps in the published package (smaller zip, no source exposure).
+    sourcemap: false,
   },
   // crxjs uses a dev server websocket for HMR; bind it explicitly.
   server: {

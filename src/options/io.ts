@@ -103,7 +103,3 @@ export function parseConfig(text: string): Config {
     settings,
   };
 }
-
-export async function readFileAsText(file: File): Promise<string> {
-  return await file.text();
-}
