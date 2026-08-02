@@ -1,6 +1,6 @@
 {
   "name": "pickit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pickit — custom right-click context menu launcher (Manifest V3)",
   "private": true,
   "type": "module",

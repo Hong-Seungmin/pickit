@@ -35,5 +35,7 @@ export default defineManifest({
       run_at: "document_idle",
     },
   ],
-  permissions: ["contextMenus", "storage", "tabs"],
+  // Note: no "tabs" permission. chrome.tabs.create/update work without it, and
+  // tab.title (for {pageTitle}) is readable via the <all_urls> host access.
+  permissions: ["contextMenus", "storage"],
 });
